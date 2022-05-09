@@ -1,6 +1,5 @@
 
 export const colorCode = (col: string) => {
-
   return COLORS.indexOf(col);
 }
 
